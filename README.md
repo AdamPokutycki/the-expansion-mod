@@ -1,2 +1,3 @@
-# the-expansion-mod
-hey!
+# the-expansion Mod
+How to install:
+click code, 
